@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+    margin-top: 200px;
+    font-family: 'poppins', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.container{
+    border-radius:5px;
+    background-color: rgb(191, 191, 248);
+    padding: 20px;
+}
+h1{
+    text-align: "center";
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+input,button{
+    padding:5px;
+    margin-bottom: 10px;
+}
